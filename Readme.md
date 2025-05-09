@@ -55,3 +55,7 @@ Cloud-init конфигурация для первоначальной наст
 | **Terraform Plan**                            | Выполнение `terraform plan` (если выбрано действие `plan`)                                         |
 | **Terraform Apply**                           | Выполнение `terraform apply -auto-approve` (если выбрано действие `apply`)                        |
 | **Terraform Destroy**                         | Выполнение `terraform destroy -auto-approve` (если выбрано действие `destroy`)                    |
+
+
+## Результат
+![alt text](screenshots/image.png)
