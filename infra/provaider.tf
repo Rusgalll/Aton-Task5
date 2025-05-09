@@ -15,7 +15,7 @@ terraform {
     endpoints = {
       s3 = "https://storage.yandexcloud.net"
     }
-    bucket = "bucket-tf-state-kittygram"
+    bucket = "aton55"
     region = "ru-central1"
     key    = "tf-state.tfstate"
 
